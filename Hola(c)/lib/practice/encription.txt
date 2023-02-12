@@ -1,0 +1,29 @@
+encription
+a= 100  * rand();
+s= 260  * rand();
+c= 200  * rand();
+d= 250  * rand();
+e= 300  * rand();
+f= 240  * rand();
+g= 400  * rand();
+m= 230  * rand();
+i= 500  * rand();
+l= 220  * rand();
+k= 600  * rand();
+j= 210  * rand();
+h= 700  * rand();
+n= 200  * rand();
+o= 800  * rand();
+p= 190  * rand();
+q= 900  * rand();
+r= 180  * rand();
+b= 110  * rand();
+t= 170  * rand();
+u= 120  * rand();
+v= 160  * rand();
+w= 130  * rand();
+x= 150  * rand();
+y= 140  * rand();
+z= 154  * rand();
+
+rand no  encription (in aes)

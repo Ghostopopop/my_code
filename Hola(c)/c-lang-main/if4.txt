@@ -1,0 +1,69 @@
+  equality          ==
+
+if a = 1 and b = 2
+then a==b 
+output is = 0
+
+(if a = 1 and b = 1
+then a==b 
+output is = 1)
+  
+  
+   less than         <
+  
+  a = 1 b =2 
+  a<b 
+  true 1
+  false 0
+  
+  Greater than      >
+  
+  <=                <=
+  
+  >=                >=
+  
+  inequality        !=
+  
+  and               &&
+  true  , true =1
+  true  , false = 0
+  false ,false = 0
+
+  or                ||
+
+  true  , true =0
+  true  , false = 1
+  false ,false = 0
+
+  not               !
+  if true(1) = false(0)
+  if false(0) = true(1)
+
+bitwise(^)xor
+
+0^0 = 0
+1^0 = 1
+1^1 = 0
+
+
+one compliment (~)
+~4 output = -5 
+it flips the bit 
+
+left shift op (<<)
+it shit n number of bit to left
+
+right shift op (>>)
+it shit n number of bit to right
+
+assignment OP(+=,-=,*=,/=)
+same for all op
+(if a = 1
+then a+=1
+= 2)
+
+
+sizeof()
+output = bit size of (variable)
+
+
