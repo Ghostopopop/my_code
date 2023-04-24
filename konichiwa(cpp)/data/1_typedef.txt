@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+typedef struct agent
+{
+    int d;
+    float b;
+    char c ;
+}a;
+
+int main(){
+    
+a ghost;
+ghost.b;
+
+return 0;
+}
