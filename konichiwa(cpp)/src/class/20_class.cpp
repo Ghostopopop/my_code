@@ -1,5 +1,8 @@
+//auther = hitarth
+//date = 
+#include<cmath>
 #include <iostream>
-//#include <string>
+#include <string>
 using namespace std;
 
 class MyClass {       // The class
